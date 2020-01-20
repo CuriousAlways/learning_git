@@ -11,4 +11,4 @@ This is basic terminal based calculator application.
 * division
 * modulo division
 
-##tested for python 2.x
+## _tested for python 2.x_
